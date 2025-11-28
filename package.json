@@ -1,0 +1,12 @@
+{
+  "name": "it412-final-project",
+  "version": "1.0.0",
+  "description": "IT 412 Final Project - Node.js + Express.js App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
